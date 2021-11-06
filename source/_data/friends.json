@@ -1,0 +1,51 @@
+[
+    {
+        "avatar": "http://image.luokangyuan.com/1_qq_27922023.jpg",
+        "name": "码酱",
+        "introduction": "我不是大佬，只是在追寻大佬的脚步",
+        "url": "http://luokangyuan.com/",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "http://www.inode.club/home.png",
+        "name": "程序员成长指北",
+        "introduction": "从 前端 到 Node.js 再到 后端,一个有趣的且乐于分享的人。",
+        "url": "http://www.inode.club/",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18049290?v=4",
+        "name": "木易杨",
+        "introduction": "每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+        "url": "https://github.com/yygmind",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "https://pic3.zhimg.com/v2-5d9a44a2e7691d11c887e86e60e20a12_xl.jpg",
+        "name": "波比小金刚",
+        "introduction": "航空母舰工程师, 高级研发工程师。",
+        "url": "https://www.zhihu.com/people/bo-bi-xiao-jin-gang",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "https://ustbhuangyi.github.io/vue-analysis/assets/mind.png",
+        "name": "Vue技术揭秘",
+        "introduction": "Vue.js 的源码解析文章。",
+        "url": "https://github.com/yygmind",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "https://hundren.github.io/avatar.JPG",
+        "name": "老朽",
+        "introduction": "Just do IT!",
+        "url": "https://hundren.github.io/",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "https://pic4.zhimg.com/da8e974dc_xl.jpg",
+        "name": "怜惜月",
+        "introduction": "不加班的程序猿不是好程序员！！！",
+        "url": "https://www.zhihu.com/people/lian-xi-yue-52",
+        "title": "前去学习"
+    }
+]
