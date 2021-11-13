@@ -1,38 +1,21 @@
 ---
-title: Hello World
+title: 前端缓存
+top: false
+cover: false
+toc: true
+mathjax: true
+date: 2020-10-15 14:16:13
+password:
+summary:
+tags: 
+    - 缓存
+categories:
+    - 缓存
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+**前端缓存-总结**
 
-### Create a new post
+## [前端缓存](https://pic4.zhimg.com/v2-1b6d2717220c92e4cf4c14d5bb94fdb7_r.jpg)
 
-``` bash
-$ hexo new "My New Post"
-```
+![缓存-总结](https://pic4.zhimg.com/v2-1b6d2717220c92e4cf4c14d5bb94fdb7_r.jpg)
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
